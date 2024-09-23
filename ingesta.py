@@ -6,7 +6,7 @@ mydb = mysql.connector.connect(
     host="3.89.235.4",
     port=8005,
     user="root",
-    password="Utec",
+    password="utec",
     database="tienda"
 )
 
